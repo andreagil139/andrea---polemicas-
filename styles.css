@@ -1,4 +1,10 @@
 body  {color:orange;
-background:white ;
+background:black ;
 
 }
+
+header{
+      border-bottoom:solid 2px orange;
+}
+    
+    
