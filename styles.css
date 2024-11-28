@@ -11,15 +11,16 @@ header{
     color: rgb(255, 165, 0) 
 }
 
-     section{
-      background: rgb(255, 165, 0);
-      padding-bottom: 80px;
-      padding-top:80px ;
-      display: flex;
-      justify-content: center;
+section{
+    background: rgb(255, 165, 0);
+    padding-bottom: 80px;
+    padding-top:80px ;
+    display: flex;
+    justify-content: center;
 
-     }
-     div {
-      margin-right: 20px;
-     }
+}
+
+div {
+  margin-right: 20px;
+}
     
