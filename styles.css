@@ -13,7 +13,7 @@ header{
     color: rgb(255, 165, 0) 
 }
 
-section{
+.chamada {
     background: rgb(255, 165, 0);
     padding-bottom: 80px;
     padding-top:80px ;
@@ -35,5 +35,14 @@ p{
 }
 img{
   height: 300px;
+} 
+.categoria-vide {
+    display: flex;
+    overflow-x: auto;
+    gap: 20PX;
+}
+ .categoria {
+    padding-left: 20px;
+    padding-right: 20px;
 }
     
