@@ -1,5 +1,5 @@
 body {
-  color: white;
+  color:black;
   background:black ;
   margin: 0px;
   font-family: "Sawarabi Mincho", serif;
@@ -52,4 +52,10 @@ p{
 
 .categoria-videos img:hover {
   opacity: 1.0;
+  border: 1px solid green;
+}
+
+.categoria h2 {
+  color:rgb(255, 165, 0)
+
 }
